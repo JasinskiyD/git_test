@@ -4,6 +4,6 @@ public class GitTest {
         String hello = "Hello ";
         String peace = "peaceful ";
         String world = "World!";
-        System.out.println(hello + world);
+        System.out.println(hello + peace + world);
     }
 }
